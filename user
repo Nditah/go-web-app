@@ -1,0 +1,14 @@
+CORRECTION FROM FACILITATOR 
+===============
+1.	The request status button color should be modified: Pending = Gray (try any color matching)
+2.	The Admin.html, Request.html, Login.html should b responsive and centralized both horizontally and vertically
+3.	All inputs especially email should be validated with regExp
+4.	Table rows should be displayed in bands for better visuals 
+5.	The form textarea should be to  fixed not expandable
+6.	Do not us alert for feedback rather modal or inline styled feedback should be used 
+7.	Remove ancho tags showing in url
+8.	Admin Details should not enter an input form. Style a div to display request details when selected.
+9.	When the admin chooses to edit status, then he can select and option box which will allow for selected the new request status to update.
+10.	Change sort icon to A-Z like the one used to represent sort in Ms-Excel
+11.	Jquery can be used for DOM Manipulation
+12.	Update Description field in PivotalTracker using the templated provided.
